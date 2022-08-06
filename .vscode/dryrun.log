@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/altria/2022Fall/webserver'
+g++ -o server *.cpp -pthread
+make: Leaving directory '/home/altria/2022Fall/webserver'
+ 
